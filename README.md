@@ -68,11 +68,7 @@ plt.savefig("images/example_hull.png")  # Save the plot to the images folder
 
 This will save the plot as `example_hull.png` inside the `images` folder. Next, to display the saved image in your `README.md`, use the following markdown syntax:
 
-```markdown
 ![Convex Hull Visualization](images/example_hull.png)
-```
-
-This code will embed the image in your README.md file, making it visible when viewed on GitHub. Be sure to add both the images/example_hull.png file and your updated README.md to your repository before committing.
 
 ## License
 
