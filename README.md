@@ -66,7 +66,7 @@ To add an example image in your repository, create an `images` folder in your re
 plt.savefig("images/example_hull.png")  # Save the plot to the images folder
 ```
 
-This will save the plot as `example_hull.png` inside the `images` folder. Next, to display the saved image in your `README.md`, use the following markdown syntax:
+This will save the plot as `example_hull.png` inside the `images` folder.
 
 ![Convex Hull Visualization](images/example_hull.png)
 
